@@ -1,0 +1,32 @@
+[
+  {
+    "ProductName": "Dell 3321F",
+    "Quontity": 12,
+    "Price": 32000,
+    "Category": "PC"
+  },
+  {
+    "ProductName": "Apple MacBook Pro",
+    "Quontity": 12,
+    "Price": 51000,
+    "Category": "PC"
+  },
+  {
+    "ProductName": "Razor Mouse 12A",
+    "Quontity": 12,
+    "Price": 1000,
+    "Category": "Office"
+  },
+  {
+    "ProductName": "ASUS Keys 88",
+    "Quontity": 12,
+    "Price": 425,
+    "Category": "Office"
+  },
+  {
+    "ProductName": "Apple Pen",
+    "Quontity": 12,
+    "Price": 225,
+    "Category": "Office"
+  }
+]

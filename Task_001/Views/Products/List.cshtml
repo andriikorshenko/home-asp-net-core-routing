@@ -1,0 +1,6 @@
+﻿@model IEnumerable<Warehouse>
+
+@foreach(var item in Model)
+{
+    <p>@item.ProductName, @item.Quontity, @item.Price, @item.Category</p>
+}
